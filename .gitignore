@@ -1,0 +1,19 @@
+# Build artifacts
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
